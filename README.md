@@ -6,6 +6,7 @@ Uses the following technology to be build
 * Oauth2
 * JWT
 * JPA
+
 Note: 
 * Localhost: 8070
 * Gradle 
